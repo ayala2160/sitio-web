@@ -124,6 +124,7 @@ $ListaLibros=$sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
 </div>
 
 <div class="col-md-7">
+    <a href="reportes.php">Reporte pdf</a>
     <table class="table table-bordered">
         <thead>
             <tr>
